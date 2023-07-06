@@ -23,26 +23,27 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1 Configure Roles
+- Item 2 Configure Departments
+- Item 3 Configure some Teams
+- Item 4 Configure Agents
+- Item 5 Create Users
+- Item 6 Configure SLA's
+- Item 7 Configure Help Topics
 
 <h2>Configuration Steps</h2>
 <p>
 
   ![image](https://github.com/jghis/post-install-config/assets/132087784/7f24d7a9-60aa-46b8-922c-0bc878997898)
 
-  Roles configuration
+  We created a Role called Supreme Admin.
 
 
   ![image](https://github.com/jghis/post-install-config/assets/132087784/b4281195-25af-41ce-8cde-5b2af109c64b)
 
-configure departments
+After we configured some roles we added some departments.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -51,10 +52,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   
   ![image](https://github.com/jghis/post-install-config/assets/132087784/e6d181e4-8dc3-4ef2-b81d-026b4f5331f1)
   
-Teams configuration
+Next we created two teams: Level I and level II support teams.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -67,24 +67,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/jghis/post-install-config/assets/132087784/3141eff8-0915-4926-a725-1ea986cb582d)
 
 
-Agents configuration.
+Next we configured some Agents: Jane Doe and John Doe.
 
 ![image](https://github.com/jghis/post-install-config/assets/132087784/d28cd131-3980-43b9-a90b-d0c7733e16ef)
 
-Create users
+Next we created Users: karen Karen and Ken Ken.
 
 ![image](https://github.com/jghis/post-install-config/assets/132087784/576be23f-8f2a-4e8c-a307-e742b4b2b464)
 
-configure sla's
+Then we configured SLA's.
 
 
 ![image](https://github.com/jghis/post-install-config/assets/132087784/6d9d9d72-f2bb-4250-b047-5c1a4693f416)
 
-configure help topics
+ Finaly we configured help topics.
 
   
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
